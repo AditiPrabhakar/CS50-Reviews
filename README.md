@@ -63,6 +63,7 @@ The project is built using Flask for the backend, HTML, CSS, and Bootstrap for t
    - Tables include `users`, `reviews`, and `votes` with relationships to ensure data integrity.
      - **Schema**:
     ```sql
+
     CREATE TABLE users (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         username TEXT NOT NULL,
