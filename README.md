@@ -1,9 +1,4 @@
 # CS50 Reviews
-#### Video Demo:  [<URL HERE>](https://youtu.be/egVg6MVOcvA)
-
-#### Description:
-
-
 CS50 Reviews Website is an interactive web application designed to allow users to share and explore reviews related to CS50x or any other CS50 course. This project aims to create a vibrant community where users can rate and discuss their experiences with the course, provide feedback, and connect with others.
 
 The website is built with a user-friendly interface, ensuring seamless navigation through various features such as user authentication, posting reviews, viewing others' reviews, and interacting with them through upvotes and downvotes. It also includes a dedicated FAQs page and links to CS50x lectures and other CS50 courses.
